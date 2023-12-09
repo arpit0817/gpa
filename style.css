@@ -1,0 +1,126 @@
+*{
+   /* color: ; */
+}
+body{
+    margin:0;
+    padding:0;
+}
+.toparea{
+    background:#BB5853;
+    padding:10px 0;
+    color:#fff;
+    text-align:center;
+}
+.headingarea{
+    background:#F2C38B;
+    padding:45px 0;
+    text-align:center;
+}
+.headingarea img{
+    height:70px;
+}
+.headingarea h1{
+    color:#74353F ;
+
+}
+.headingarea h4{
+    color:#000 ;
+
+}
+.parea{
+    background:#FFFFFF ;
+    padding:70px;
+}
+.parea1{
+    text-align:center;
+}
+.parea2 img{
+    width:100%;
+}
+.parea2 p{
+    text-align:justify;
+}
+.parea2 p:last-child{
+    text-align:right;
+}
+.parea4{
+    text-align:center;
+}
+.coursearea{
+    background:#E6D3C7;
+    padding:50px 0;
+}
+.coursearea1{
+    text-align:center;
+}
+.box{
+    background:#FFFFFF;
+    margin:20px 0px;
+    padding:10px 0;
+    border: solid 2px #D5D5D5;
+    text-align:center;
+}
+.box img{
+    transition:all 2s;
+    width:100%;
+}
+.box:hover img{
+    transform:rotate(360deg);
+}
+.box1{
+    background:#FFFFFF;
+    margin:30px 0px;
+    padding:10px 0;
+    border: solid 2px #D5D5D5;
+    text-align:center;
+}
+.box1 img{
+    transition:all 2s;
+    width:100%;
+}
+.box1:hover img{
+    transform:rotate(360deg);
+}
+.box2{
+    background:#FFFFFF;
+    margin:30px 0px;
+    padding:10px 0;
+    border: solid 2px #D5D5D5;
+    text-align:center;
+}
+.box2 img{
+    transition:all 2s;
+    width:100%;
+
+}
+.box2:hover img{
+    transform:rotate(360deg);
+}
+.box3{
+    background:#FFFFFF;
+    margin:30px 0px;
+    padding:10px 0;
+    border: solid 2px #D5D5D5;
+    text-align:center;
+
+}
+.box3 img{
+    transition:all 2s;
+    width:100%;
+}
+.box3:hover img{
+    transform:rotate(360deg);
+}
+.box4{
+    background:#fff ;
+    margin:30px 0 ;
+    padding:15px 0 ;
+    border-radius:10px ;
+    text-align:center;
+    color:#636464 ;
+}
+.alumniarea{
+    background:#fff ;
+    margin:20px 0 ;
+    padding:10px 0 ;
+}
